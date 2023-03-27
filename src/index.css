@@ -1,0 +1,13 @@
+html{
+  box-sizing: border-box;
+}
+
+*,*::after,*::before{
+  box-sizing: border-box;
+}
+body{
+background-color: rgba(224, 219, 219, 0.632);
+}
+.Main-Content{
+  margin-top: 70px;
+}
